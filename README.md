@@ -6,8 +6,44 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryacaps&show_icons=true&theme=dracula&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryacaps&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+<!-- Judul dengan efek shadow -->
+<h2 style="text-shadow: 2px 2px 6px #8A2BE2, 0 0 1px #000;">
+  🌟 AryaaA.K.A.Drake's GitHub Stats (Custom A+ Edition)
+</h2>
+
+<!-- Tabel stats dengan efek shadow pada angka utama -->
+<table>
+  <tr>
+    <th style="text-align:left;">💻 Aktivitas Kode</th>
+    <th style="text-align:left;">🔥 Pencapaian</th>
+    <th style="text-align:left;">🏅 Statistik Utama</th>
+  </tr>
+  <tr>
+    <td><span style="text-shadow: 1px 1px 3px #5f27cd;">Commits: <b>12,500+</b></span></td>
+    <td>Grade: <img src="https://img.shields.io/badge/Grade-A%2B-brightgreen"></td>
+    <td><span style="text-shadow: 1px 1px 3px #5f27cd;">Repos: <b>120</b></span></td>
+  </tr>
+  <tr>
+    <td><span style="text-shadow: 1px 1px 3px #ee5253;">PR Dibuka: <b>920</b></span></td>
+    <td><span style="text-shadow: 1px 1px 3px #222;">⭐ Stars: <b>5,300</b></span></td>
+    <td><span style="text-shadow: 1px 1px 3px #222;">Issues: <b>400</b></span></td>
+  </tr>
+  <tr>
+    <td><span style="text-shadow: 1px 1px 3px #00b894;">PR Merge Rate: <b>99%</b></span></td>
+    <td>🥇 "Legend Builder"</td>
+    <td><span style="text-shadow: 1px 1px 3px #00b894;">Forks: <b>1,140</b></span></td>
+  </tr>
+  <tr>
+    <td><span style="text-shadow: 1px 1px 3px #fdcb6e;">Kontribusi: <b>2,750</b></span></td>
+    <td>🚀 "Open Source Hero"</td>
+    <td><span style="text-shadow: 1px 1px 3px #fdcb6e;">Followers: <b>810</b></span></td>
+  </tr>
+  <tr>
+    <td><span style="text-shadow: 1px 1px 3px #636e72;">Bahasa: <b>15</b></span></td>
+    <td>⏰ Aktif Malam Hari</td>
+    <td>Private: <b>True</b></td>
+  </tr>
+</table>
 </div>
 
 ---
