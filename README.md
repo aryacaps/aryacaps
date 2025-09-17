@@ -1,8 +1,6 @@
 <p align="center">
-  
-![Anime Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQwcjR6eWhuZzZqd3FrMjc5YXFzZjdzaTIxNTA2Z3B0YW9uNGJsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QCJlIDkOJDEIctfdzz/giphy.gif)
-
-</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQwcjR6eWhuZzZqd3FrMjc5YXFzZjdzaTIxNTA2Z3B0YW9uNGJsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QCJlIDkOJDEIctfdzz/giphy.gif" alt="Deskripsi GIF" width="400"/>
+</p>  
 
 <p align="center">
   <svg width="420" height="90" style="background: linear-gradient(90deg, #00bcd4 0%, #ffd700 100%); border-radius:16px;">
