@@ -50,7 +50,7 @@
 
 <!-- Hacker/Glitch Avatar -->
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="140" style="filter: grayscale(0.7) brightness(1.1);" alt="hacker avatar">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRpNWtqaW5ocWxvMHJvdTJ1aXc1eGV5anBwczI3OGEwcGFlcnB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bypp2lhul7AvYvl5Dg/giphy.gif" width="300">
 </p>
 
 ---
