@@ -49,9 +49,14 @@
 ---
 
 <!-- Hacker/Glitch Avatar -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRpNWtqaW5ocWxvMHJvdTJ1aXc1eGV5anBwczI3OGEwcGFlcnB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bypp2lhul7AvYvl5Dg/giphy.gif" width="300">
-</p>
+<div align="center" style="display:flex; align-items:center; justify-content:center;">
+  <!-- GIF 1 -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWRpNWtqaW5ocWxvMHJvdTJ1aXc1eGV5anBwczI3OGEwcGFlcnB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bypp2lhul7AvYvl5Dg/giphy.gif" width="280" />
+
+  <!-- GIF 2 -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Fjdnl1dTYxd3pwcXM1dDJ4eTJ2Mzh3dXF2dXc4dGU0M3lzcWJ0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4KkuXfMUGWwsue37jT/giphy.gif" width="280" />
+</div>
+
 
 ---
 
