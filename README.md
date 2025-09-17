@@ -8,7 +8,7 @@
 <div align="center">
 <!-- Judul dengan efek shadow -->
 <h2 style="text-shadow: 2px 2px 6px #8A2BE2, 0 0 1px #000;">
-  🌟 AryaaA.K.A.Drake's GitHub Stats (Custom A+ Edition)
+  🌟 AryaaA.K.A.Drake's GitHub Stats 
 </h2>
 
 <!-- Tabel stats dengan efek shadow pada angka utama -->
